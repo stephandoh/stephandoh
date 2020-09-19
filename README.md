@@ -26,7 +26,7 @@ March, 2020
 - Pandas.
 - Numpy.
 - Matplotlib.
-- ensorflow.
+- Tensorflow.
 - Data visualization.
 - Data cleaning.
 
