@@ -30,5 +30,10 @@ March, 2020
 - Data visualization.
 - Data cleaning.
 
+## My favourite data science learning platforms :bulb:
+
+- kaggle.
+- zindi.
+
 
 
