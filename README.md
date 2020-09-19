@@ -13,7 +13,7 @@ Bachelor Science(statistics)
 
 Microsoft Certified: Azure Developer Associate
 AZUBI AFRICA
-September, 2020
+October, 2020
 
 
 Microsoft Certified: Azure Fundamentals
