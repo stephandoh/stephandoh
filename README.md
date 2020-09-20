@@ -22,13 +22,10 @@ March, 2020
 
 ## My Skills :pushpin:
 
-- Python.                                                                                                
-- Pandas.
-- Numpy.
-- Matplotlib.
-- Tensorflow.
-- Data visualization.
-- Data cleaning.
+- DATA PROCESSING                                                                                              
+- DATA MODELLING
+- DATA MINING
+- DATA VISUALIZATION
 
 ## My favourite data science learning platforms :bulb:
 
