@@ -18,7 +18,7 @@ October, 2020
 
 Microsoft Certified: Azure Fundamentals
 AZUBI AFRICA
-March, 2020
+July, 2020
 
 ## My Skills :pushpin:
 
